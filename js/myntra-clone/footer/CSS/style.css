@@ -1,0 +1,22 @@
+.footer {
+    background-color: rgb(253, 249, 249);
+    position: sticky;
+    z-index: 999;
+
+    box-shadow: 0 -6px 10px 5px rgba(177, 174, 174, 0.5);
+}
+
+.footer ul {
+    list-style: none;
+    margin-top: 11px;
+
+}
+.footer p{
+    font-weight: 700;
+
+}
+.forbi{
+    font-size: medium;
+    color: darkgray;
+    padding-top: 10px;
+}   
